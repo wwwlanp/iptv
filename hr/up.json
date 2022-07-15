@@ -1,0 +1,23 @@
+{
+	"data": {
+		"address": "https://nginx1.cmsiptv.xyz/iptv.apk",
+		"checkDategte": "",
+		"checkDatelte": "",
+		"createBy": "8",
+		"createByName": "管理员",
+		"createDate": "2021-05-01 01:59:10",
+		"createDeptId": 1,
+		"current": 0,
+		"entityFlag": "1",
+		"id": 1,
+		"idx": "3f451287521e705751fb885296991991",
+		"sidx": "",
+		"size": 10,
+		"sord": "",
+		"sqlMap": {},
+		"updateDate": "2022-05-08 23:40:38",
+		"version": "4.9"
+	},
+	"msg": "查询成功",
+	"result": 0
+}
